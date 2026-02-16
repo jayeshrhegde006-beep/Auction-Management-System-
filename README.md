@@ -149,7 +149,11 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Jayesh Hegde**
+Developed by **Jayesh Hegde** 
+<p align="center">
+  <img src="C:\Users\jayes\Downloads\itadori-jujutsu-kaisen.gif" width="45"/>
+</p>
+
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
